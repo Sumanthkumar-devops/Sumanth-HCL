@@ -1,0 +1,1 @@
+{"message":"Appointments retrieved successfully","count":2,"appointments":[{"id":"1","patientId":"1","date":"2023-06-15","time":"10:00","doctor":"Dr. Smith"},{"id":"2","patientId":"2","date":"2023-06-16","time":"14:30","doctor":"Dr. Johnson"}]}
